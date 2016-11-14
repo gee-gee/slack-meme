@@ -49,7 +49,6 @@ class Memegen:
     def help(self):
         return "\n".join([
             "Welcome to Slack Meme!",
-            'Check me out on <https://github.com/nicolewhite/slack-meme|GitHub>.',
             "**> Commands:**",
             "* `/meme template_name;top_row;bottom_row` generate a meme",
             "    (NOTE: template_name can also be a URL to an image)",
